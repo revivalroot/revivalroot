@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<br><br><br>
+<h1>Hey! nice to see you in the next world.</h1>
+<p>
+Welcome to my page! <br>
+I'm Tae Hu, currently living in seoul the republic of Korea <img src="https://user-images.githubusercontent.com/70050528/189471349-b61089ef-38fa-4c0a-acd5-776f094f0809.png" width="20" style="max-width: 100%;">
+</p>
+
 <h2> My learning tech 📚</h2>
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> 
