@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<br><br><br>
+<br><br>
 <h1>Hey! nice to see you</h1>
 <p>
 Welcome to my page! <br>
