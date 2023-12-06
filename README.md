@@ -11,5 +11,5 @@
 
 </p>
 <hr>
-<h4>Use IDE</h4>
+<h2>Use IDE</h2>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
