@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 </p>
-<hr>
+
 <h2>Use IDE</h2>
 <p>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
@@ -18,4 +18,5 @@
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
 </p>
 
+<hr>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revivalroot)](https://github.com/anuraghazra/github-readme-stats)
