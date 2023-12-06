@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <br><br><br>
-<h1>Hey! nice to see you in the next world.</h1>
+<h1>Hey! nice to see you</h1>
 <p>
 Welcome to my page! <br>
 I'm Tae Hu, currently living in seoul the republic of Korea <img src="https://user-images.githubusercontent.com/70050528/189471349-b61089ef-38fa-4c0a-acd5-776f094f0809.png" width="20" style="max-width: 100%;">
