@@ -11,6 +11,8 @@ Welcome to my page! <br>
 I'm Tae Hu, currently living in seoul the republic of Korea <img src="https://user-images.githubusercontent.com/70050528/189471349-b61089ef-38fa-4c0a-acd5-776f094f0809.png" width="20" style="max-width: 100%;">
 </p>
 
+#### md 문법 참고 링크: https://gist.github.com/ihoneymon/652be052a0727ad59601
+
 <h2> My learning tech 📚</h2>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
