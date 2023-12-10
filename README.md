@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyeonu's%20Github!&fontSize=90" />	
+</div>
+
 <br><br>
 <h1>Hey! nice to see you</h1>
 <p>
