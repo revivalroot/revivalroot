@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Tae Hoo's%20Github!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=TaeHoo's%20Github!&fontSize=90" />	
 </div>
 
 <br><br>
