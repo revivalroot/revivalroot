@@ -33,3 +33,4 @@ I'm Tae Hu, currently living in seoul the republic of Korea <img src="https://us
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revivalroot)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shw0391&layout=compact">
