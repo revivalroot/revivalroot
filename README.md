@@ -37,6 +37,7 @@ I'm Tae Hu, currently living in seoul the republic of Korea <img src="https://us
 <h2>Memo</h2>
 
 ###### md 문법 참고 링크: https://gist.github.com/ihoneymon/652be052a0727ad59601
+###### 이모지 링크: https://emojicopy.com/
 
 <hr>
 <h2>My GitHub stats</h2>
