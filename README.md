@@ -47,7 +47,7 @@ I'm Tae Hu, currently living in seoul the republic of Korea <img src="https://us
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shw0391&layout=compact">
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thlim0924)](https://solved.ac/kycasdzxc)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thlim0924)](https://solved.ac/thlim0924)
 </div>
 
 
